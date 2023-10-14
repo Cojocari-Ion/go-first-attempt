@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"github.com/Cojocari-Ion/go-first-attempt/tree/main/pkg/controllers"
+	"github.com/mrDublionka/go-first-attempt/pkg/controllers"
 	"github.com/gorilla/mux"
 )
 
