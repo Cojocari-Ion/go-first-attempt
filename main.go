@@ -1,11 +1,6 @@
 package main
 
-import (
-    "github.com/gorilla/mux"
-    "github.com/mrDublionka/go-first-attempt/pkg/controllers"
-    "github.com/mrDublionka/go-first-attempt/pkg/routes"
-)
-
+// asdasd
 func main() {
-    // Your code here
+	// Your code here
 }
